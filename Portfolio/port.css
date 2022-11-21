@@ -94,11 +94,12 @@ header{
 }
 
 header .user img{
-    height:20rem;
-    width:20rem;
+    height:26rem;
+    width:23rem;
     border-radius: 50%;
     object-fit: cover;
-    margin-bottom: 1rem;
+    margin-bottom: -2px;
+    margin-top: 30px;
     border:.4rem solid var(--yellow);
 }
 
@@ -113,19 +114,20 @@ header .user .post{
 }
 
 header .navbar{
+    height: auto;
     width:100%;
 }
 
 header .navbar ul{
     list-style: none;
-    padding:1rem 3rem;
+    padding:0.5rem 3rem;
 }
 
 
 header .navbar ul li a{
     display: block;
     padding:1rem;
-    margin:1.5rem 0;
+    margin:1rem 0;
     background:#333;
     color:#fff;
     font-size: 2rem;
