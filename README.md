@@ -11,4 +11,4 @@ Features : 😎
 3. Fully Responsive
 4. Easy to customize
 5. Flexible and Multipurpose
-6. Working contact form with PHP
+
