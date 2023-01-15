@@ -8,7 +8,7 @@ Created By: Yash Gaur
 * {
   margin: 0;
   padding: 0;
-  line-height: ;
+  /* line-height: ; */
   font-family: 'Open Sans', sans-serif;
   outline: 0;
 }
@@ -458,8 +458,8 @@ input:checked+.slider:before {
 }
 
 .header-text img {
-  width: 130px;
-  height: 130px;
+  width: 140px;
+  height: 140px;
   margin: 20px auto;
   border-radius: 50%;
 }
