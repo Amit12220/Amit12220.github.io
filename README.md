@@ -1,7 +1,7 @@
 Personal Portfolio Website 🔥
 This website is perfectly suits for Personal Portfolio, CV, Resume. Its design is up to modern design trends.
 
-Netlify Link-https://euphonious-gaufre-15feb0.netlify.app/
+Deployed Link-https://amit12220.github.io/
 
 Language Used: html5 css3 javascript
 Web Framework: bootstrap4
